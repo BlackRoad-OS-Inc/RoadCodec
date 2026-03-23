@@ -1,3 +1,11 @@
+# RoadCodec
+
+> RoadCodec — Sovereign video processing. BlackRoad fork of FFmpeg. Transcoding, streaming, media pipeline.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 FFmpeg README
 =============
 
